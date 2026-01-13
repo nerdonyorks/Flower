@@ -1,6 +1,6 @@
 # 🌸 Interactive Flower Shader — Three.js + GLSL  
 Beautiful procedural flower animations generated completely using WebGL shader techniques.  
-Flowers bloom wherever you click, created using pure math inside a custom GLSL fragment shader.
+Flowers bloom wherever you click, created using pure math inside a custom GLSL fragment shader..
 
 
 
